@@ -97,8 +97,7 @@ Mini-About-Me 这个模块将在你的头像下面，展示你所有的社交账
 
 ### Social-media Account
 
-在下面输入的社交账号，没有的添加的不会显示在侧边框中。新加入了[简书](https:/www.jianshu.com)链接, <http://www.jianshu.com/u/e71990ada2fd>
-
+在下面输入的社交账号，没有的添加的不会显示在侧边框中。
 	# SNS settings
 	RSS: false
 	jianshu_username: 	jianshu_id 
